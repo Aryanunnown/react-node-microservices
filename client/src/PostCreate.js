@@ -15,7 +15,7 @@ const PostCreate = () => {
     <Card sx={{ mb: 4 }}>
       <CardContent>
         <Typography variant="h5" component="h2" gutterBottom>
-          Create New Post
+          Create New Post!
         </Typography>
         <Box component="form" onSubmit={onSubmit}>
           <TextField
